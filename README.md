@@ -15,7 +15,7 @@ Systems Analysis and Development student at FIAP and Web Development at TripleTe
 
 ## 🌐 Languages
 
-English (advanced) · Portuguese (native) · Spanish (beginner)
+Portuguese (native) · English (advanced) · Spanish (beginner)
 
 ## 📫 Contact
 
